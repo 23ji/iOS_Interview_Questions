@@ -49,7 +49,7 @@
 				BuildIndependentTargetsInParallel = 1;
 				LastUpgradeCheck = 1540;
 			};
-			buildConfigurationList = A7C9F3262CD25ABC004776C6 /* Build configuration list for PBXProject "project.pbxproj iOS_Interview_Questions" */;
+			buildConfigurationList = A7C9F3262CD25ABC004776C6 /* Build configuration list for PBXProject "iOS_Interview_Questions" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -81,7 +81,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		A7C9F3262CD25ABC004776C6 /* Build configuration list for PBXProject "project.pbxproj iOS_Interview_Questions" */ = {
+		A7C9F3262CD25ABC004776C6 /* Build configuration list for PBXProject "iOS_Interview_Questions" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A7C9F3272CD25ABC004776C6 /* Debug */,
