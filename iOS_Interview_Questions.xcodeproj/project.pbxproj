@@ -20,7 +20,7 @@
 		498CEB802CF95C6F008289DA /* 04. iOS 기기에서 사용되는 AP(Application Processor)의 특징과 역할에 대해 설명해주세요..md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "04. iOS 기기에서 사용되는 AP(Application Processor)의 특징과 역할에 대해 설명해주세요..md"; sourceTree = "<group>"; };
 		49E2745C2CD9D73E006EF826 /* 2. 운영체제의 역할과 iOS에서의 운영체제 구조에 대해 설명해주세요..md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "2. 운영체제의 역할과 iOS에서의 운영체제 구조에 대해 설명해주세요..md"; sourceTree = "<group>"; };
 		49E2745D2CD9D7EF006EF826 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
-		A7108FB12CFAF565007C5555 /*  13. HTTP 프로토콜의 특징과 HTTP1.1과 HTTP2의 차이점을 설명해주세요.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = " 13. HTTP 프로토콜의 특징과 HTTP1.1과 HTTP2의 차이점을 설명해주세요.md"; sourceTree = "<group>"; };
+		A7108FB12CFAF565007C5555 /* 13. HTTP 프로토콜의 특징과 HTTP1.1과 HTTP2의 차이점을 설명해주세요.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "13. HTTP 프로토콜의 특징과 HTTP1.1과 HTTP2의 차이점을 설명해주세요.md"; sourceTree = "<group>"; };
 		A723EA1C2CF9F1CE00F71AB1 /* 12. 컴퓨터 네트워킹에서 OSI 7계층 모델에 대해 설명해주세요.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "12. 컴퓨터 네트워킹에서 OSI 7계층 모델에 대해 설명해주세요.md"; sourceTree = "<group>"; };
 		A7A82E182CDAE044007D6FD4 /* 2. 운영체제의 역할과 iOS에서의 운영체제 구조에 대해 설명해주세요.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "2. 운영체제의 역할과 iOS에서의 운영체제 구조에 대해 설명해주세요.md"; sourceTree = "<group>"; };
 		A7C9F3292CD25AD3004776C6 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
@@ -66,7 +66,7 @@
 				498CEB782CF95C6F008289DA /* 10. 네트워크 프로토콜 스택과 iOS에서의 네트워크 통신 방식에 대해 설명해주세요.md */,
 				498CEB7E2CF95C6F008289DA /* 11. HTTP와 HTTPS의 차이점, iOS에서의 보안 통신 방법.md */,
 				A723EA1C2CF9F1CE00F71AB1 /* 12. 컴퓨터 네트워킹에서 OSI 7계층 모델에 대해 설명해주세요.md */,
-				A7108FB12CFAF565007C5555 /*  13. HTTP 프로토콜의 특징과 HTTP1.1과 HTTP2의 차이점을 설명해주세요.md */,
+				A7108FB12CFAF565007C5555 /* 13. HTTP 프로토콜의 특징과 HTTP1.1과 HTTP2의 차이점을 설명해주세요.md */,
 			);
 			name = "레벨 0.";
 			path = "레벨 0.";
