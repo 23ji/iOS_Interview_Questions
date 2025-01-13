@@ -8,6 +8,7 @@
 
 /* Begin PBXFileReference section */
 		492F2DA42D019176007DC150 /* 18. HTTP 상태 코드에 대해서 설명해주세요.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "18. HTTP 상태 코드에 대해서 설명해주세요.md"; sourceTree = "<group>"; };
+		494E98702D35274B008C61C0 /* 24.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = 24.md; sourceTree = "<group>"; };
 		49648CCC2D22809400EDC9CC /* 20. PNG 파일이 어떻게 저장되고 구성되는지 설명해주세요..md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "20. PNG 파일이 어떻게 저장되고 구성되는지 설명해주세요..md"; sourceTree = "<group>"; };
 		498CEB762CF95C6F008289DA /* 09. iOS에서의 메모리 구조와 관리 방식에 대해 자세히 설명해주세요.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "09. iOS에서의 메모리 구조와 관리 방식에 대해 자세히 설명해주세요.md"; sourceTree = "<group>"; };
 		498CEB772CF95C6F008289DA /* 06. 프로세스와 스레드의 차이점, 그리고 iOS에서의 프로세스와 스레드 관리 방법에 대해 설명해주세요.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "06. 프로세스와 스레드의 차이점, 그리고 iOS에서의 프로세스와 스레드 관리 방법에 대해 설명해주세요.md"; sourceTree = "<group>"; };
@@ -87,6 +88,7 @@
 				49C806CE2D266B1D002367C1 /* 21. iOS에서 메모리 사이즈와 관련된 개념과 고려 사항에 대해 설명해주세요.md */,
 				49E524792D2BAFFC008D6E37 /* 22. iOS 디바이스의 메모리 제약과 앱 메모리 제한에 대해 설명해주세요.md */,
 				49F3734C2D310D8C00C111BB /* 23. 알고리즘의 시간 복잡도와 공간 복잡도의 개념, 그리고 빅오 표기법에 대해 설명해주세요.md */,
+				494E98702D35274B008C61C0 /* 24.md */,
 			);
 			name = "레벨 0.";
 			path = "레벨 0.";
