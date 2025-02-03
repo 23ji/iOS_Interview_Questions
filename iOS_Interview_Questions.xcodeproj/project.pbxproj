@@ -9,6 +9,7 @@
 /* Begin PBXFileReference section */
 		492F2DA42D019176007DC150 /* 18. HTTP 상태 코드에 대해서 설명해주세요.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "18. HTTP 상태 코드에 대해서 설명해주세요.md"; sourceTree = "<group>"; };
 		494E98702D35274B008C61C0 /* 24. 자주 사용되는 정렬 알고리즘(예 퀵 정렬, 병합 정렬)의 동작 원리와 시간 복잡도를 설명해주세요.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "24. 자주 사용되는 정렬 알고리즘(예 퀵 정렬, 병합 정렬)의 동작 원리와 시간 복잡도를 설명해주세요.md"; sourceTree = "<group>"; };
+		495000E92D50A75D0057ECEC /* 28. 배열, 연결 리스트, 스택, 큐의 특징과 iOS에서의 구현 방법을 설명해주세요..md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "28. 배열, 연결 리스트, 스택, 큐의 특징과 iOS에서의 구현 방법을 설명해주세요..md"; sourceTree = "<group>"; };
 		4961B4602D3646BD00CCDD8C /* 25. 이진 탐색의 원리와 시간 복잡도에 대해 설명해주세요..md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "25. 이진 탐색의 원리와 시간 복잡도에 대해 설명해주세요..md"; sourceTree = "<group>"; };
 		4961B4812D38A25C00CCDD8C /* 26. 동적 프로그래밍(Dynamic Programming)의 개념을 설명해주세요..md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "26. 동적 프로그래밍(Dynamic Programming)의 개념을 설명해주세요..md"; sourceTree = "<group>"; };
 		49648CCC2D22809400EDC9CC /* 20. PNG 파일이 어떻게 저장되고 구성되는지 설명해주세요..md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "20. PNG 파일이 어떻게 저장되고 구성되는지 설명해주세요..md"; sourceTree = "<group>"; };
@@ -95,6 +96,7 @@
 				4961B4602D3646BD00CCDD8C /* 25. 이진 탐색의 원리와 시간 복잡도에 대해 설명해주세요..md */,
 				4961B4812D38A25C00CCDD8C /* 26. 동적 프로그래밍(Dynamic Programming)의 개념을 설명해주세요..md */,
 				A76232632D42807300A0F323 /* 27. 자료구조의 종류와 iOS 개발에서 자주 사용되는 자료구조에 대해 설명해주세요..md */,
+				495000E92D50A75D0057ECEC /* 28. 배열, 연결 리스트, 스택, 큐의 특징과 iOS에서의 구현 방법을 설명해주세요..md */,
 			);
 			name = "레벨 0.";
 			path = "레벨 0.";
