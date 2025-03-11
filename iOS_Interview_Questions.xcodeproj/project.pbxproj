@@ -8,6 +8,7 @@
 
 /* Begin PBXFileReference section */
 		49190E8B2D7EA71E00C54411 /* 34. Swift에서 싱글톤 패턴을 구현할 때 멀티스레드에 대해서 어떻게 고려해야 하나요?.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "34. Swift에서 싱글톤 패턴을 구현할 때 멀티스레드에 대해서 어떻게 고려해야 하나요?.md"; sourceTree = "<group>"; };
+		4922DE682D80306500F55900 /* 35. Array와 List의 차이점이 무엇인지 설명해주세요..md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "35. Array와 List의 차이점이 무엇인지 설명해주세요..md"; sourceTree = "<group>"; };
 		492F2DA42D019176007DC150 /* 18. HTTP 상태 코드에 대해서 설명해주세요.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "18. HTTP 상태 코드에 대해서 설명해주세요.md"; sourceTree = "<group>"; };
 		493254DB2D795E1500959214 /* 32. 데이터베이스의 종류와 iOS에서 주로 사용되는 데이터베이스에 대해 설명해주세요..md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "32. 데이터베이스의 종류와 iOS에서 주로 사용되는 데이터베이스에 대해 설명해주세요..md"; sourceTree = "<group>"; };
 		494E98702D35274B008C61C0 /* 24. 자주 사용되는 정렬 알고리즘(예 퀵 정렬, 병합 정렬)의 동작 원리와 시간 복잡도를 설명해주세요.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "24. 자주 사용되는 정렬 알고리즘(예 퀵 정렬, 병합 정렬)의 동작 원리와 시간 복잡도를 설명해주세요.md"; sourceTree = "<group>"; };
@@ -109,6 +110,7 @@
 				493254DB2D795E1500959214 /* 32. 데이터베이스의 종류와 iOS에서 주로 사용되는 데이터베이스에 대해 설명해주세요..md */,
 				A759EFAC2D7C46190049841F /* 33. 싱글톤 패턴(Singleton Pattern)이란 무엇이며, 어떤 경우에 사용하나요?.md */,
 				49190E8B2D7EA71E00C54411 /* 34. Swift에서 싱글톤 패턴을 구현할 때 멀티스레드에 대해서 어떻게 고려해야 하나요?.md */,
+				4922DE682D80306500F55900 /* 35. Array와 List의 차이점이 무엇인지 설명해주세요..md */,
 			);
 			name = "레벨 0.";
 			path = "레벨 0.";
