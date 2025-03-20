@@ -9,6 +9,8 @@
 /* Begin PBXFileReference section */
 		49190E8B2D7EA71E00C54411 /* 34. Swift에서 싱글톤 패턴을 구현할 때 멀티스레드에 대해서 어떻게 고려해야 하나요?.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "34. Swift에서 싱글톤 패턴을 구현할 때 멀티스레드에 대해서 어떻게 고려해야 하나요?.md"; sourceTree = "<group>"; };
 		4922DE682D80306500F55900 /* 35. Array와 List의 차이점이 무엇인지 설명해주세요..md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "35. Array와 List의 차이점이 무엇인지 설명해주세요..md"; sourceTree = "<group>"; };
+		4922DE6A2D8A582100F55900 /* 03. - 복습.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "03. - 복습.md"; sourceTree = "<group>"; };
+		4922DE6B2D8BA32000F55900 /* 2. iOS 앱의 생명주기(App Life Cycle)에 대해 설명해주세요.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "2. iOS 앱의 생명주기(App Life Cycle)에 대해 설명해주세요.md"; sourceTree = "<group>"; };
 		492F2DA42D019176007DC150 /* 18. HTTP 상태 코드에 대해서 설명해주세요.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "18. HTTP 상태 코드에 대해서 설명해주세요.md"; sourceTree = "<group>"; };
 		493254DB2D795E1500959214 /* 32. 데이터베이스의 종류와 iOS에서 주로 사용되는 데이터베이스에 대해 설명해주세요..md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "32. 데이터베이스의 종류와 iOS에서 주로 사용되는 데이터베이스에 대해 설명해주세요..md"; sourceTree = "<group>"; };
 		494E98702D35274B008C61C0 /* 24. 자주 사용되는 정렬 알고리즘(예 퀵 정렬, 병합 정렬)의 동작 원리와 시간 복잡도를 설명해주세요.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "24. 자주 사용되는 정렬 알고리즘(예 퀵 정렬, 병합 정렬)의 동작 원리와 시간 복잡도를 설명해주세요.md"; sourceTree = "<group>"; };
@@ -43,7 +45,7 @@
 		A742CFDF2CFC5593000912F9 /* 14. TCP와 UDP의 특징과 차이점에 대해 설명해주세요.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "14. TCP와 UDP의 특징과 차이점에 대해 설명해주세요.md"; sourceTree = "<group>"; };
 		A759EFAC2D7C46190049841F /* 33. 싱글톤 패턴(Singleton Pattern)이란 무엇이며, 어떤 경우에 사용하나요?.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "33. 싱글톤 패턴(Singleton Pattern)이란 무엇이며, 어떤 경우에 사용하나요?.md"; sourceTree = "<group>"; };
 		A76232632D42807300A0F323 /* 27. 자료구조의 종류와 iOS 개발에서 자주 사용되는 자료구조에 대해 설명해주세요..md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "27. 자료구조의 종류와 iOS 개발에서 자주 사용되는 자료구조에 대해 설명해주세요..md"; sourceTree = "<group>"; };
-		A77538C32D87993200E59030 /* 02. 캐시 메모리의 개념과 역할에 대해 설명해주세요..md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "02. 캐시 메모리의 개념과 역할에 대해 설명해주세요..md"; sourceTree = "<group>"; };
+		A77538C32D87993200E59030 /* 02. - 복습.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "02. - 복습.md"; sourceTree = "<group>"; };
 		A7A82E182CDAE044007D6FD4 /* 2. 운영체제의 역할과 iOS에서의 운영체제 구조에 대해 설명해주세요.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "2. 운영체제의 역할과 iOS에서의 운영체제 구조에 대해 설명해주세요.md"; sourceTree = "<group>"; };
 		A7A994F52D77C6A200CC61CE /* 31. 가상 메모리(Virtual Memory)의 개념과 동작 원리에 대해 설명해주세요..md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "31. 가상 메모리(Virtual Memory)의 개념과 동작 원리에 대해 설명해주세요..md"; sourceTree = "<group>"; };
 		A7C9F3292CD25AD3004776C6 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
@@ -83,7 +85,9 @@
 				498CEB7C2CF95C6F008289DA /* 01. 컴퓨터 시스템에서 CPU, RAM, 저장 장치의 역할과 이들이 어떻게 상호 작용하는지 설명해주세요.md */,
 				A7EED23D2D83A44C002B24D0 /* 01-복습.md */,
 				498CEB7B2CF95C6F008289DA /* 02. 캐시 메모리의 개념과 역할에 대해 설명해주세요.md */,
+				A77538C32D87993200E59030 /* 02. - 복습.md */,
 				498CEB7F2CF95C6F008289DA /* 03. CPU 아키텍처의 종류와 각 특징에 대해 설명해주세요.md */,
+				4922DE6A2D8A582100F55900 /* 03. - 복습.md */,
 				498CEB802CF95C6F008289DA /* 04. iOS 기기에서 사용되는 AP(Application Processor)의 특징과 역할에 대해 설명해주세요..md */,
 				498CEB7D2CF95C6F008289DA /* 05. 운영체제의 역할과 iOS의 운영체제 구조에 대해 설명해주세요.md */,
 				498CEB772CF95C6F008289DA /* 06. 프로세스와 스레드의 차이점, 그리고 iOS에서의 프로세스와 스레드 관리 방법에 대해 설명해주세요.md */,
@@ -134,7 +138,7 @@
 			isa = PBXGroup;
 			children = (
 				A7EED23C2D839FF0002B24D0 /* 01. Swift에서 옵셔널(Optional)이란 무엇이며, 언제 사용해야 하나요?.md */,
-				A77538C32D87993200E59030 /* 02. 캐시 메모리의 개념과 역할에 대해 설명해주세요..md */,
+				4922DE6B2D8BA32000F55900 /* 2. iOS 앱의 생명주기(App Life Cycle)에 대해 설명해주세요.md */,
 			);
 			name = "레벨 1.";
 			path = "레벨 1.";
