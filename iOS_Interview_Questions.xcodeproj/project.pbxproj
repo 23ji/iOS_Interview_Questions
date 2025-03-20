@@ -10,7 +10,7 @@
 		49190E8B2D7EA71E00C54411 /* 34. Swift에서 싱글톤 패턴을 구현할 때 멀티스레드에 대해서 어떻게 고려해야 하나요?.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "34. Swift에서 싱글톤 패턴을 구현할 때 멀티스레드에 대해서 어떻게 고려해야 하나요?.md"; sourceTree = "<group>"; };
 		4922DE682D80306500F55900 /* 35. Array와 List의 차이점이 무엇인지 설명해주세요..md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "35. Array와 List의 차이점이 무엇인지 설명해주세요..md"; sourceTree = "<group>"; };
 		4922DE6A2D8A582100F55900 /* 03. - 복습.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "03. - 복습.md"; sourceTree = "<group>"; };
-		4922DE6B2D8BA32000F55900 /* 2. iOS 앱의 생명주기(App Life Cycle)에 대해 설명해주세요.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "2. iOS 앱의 생명주기(App Life Cycle)에 대해 설명해주세요.md"; sourceTree = "<group>"; };
+		4922DE6B2D8BA32000F55900 /* 02. iOS 앱의 생명주기(App Life Cycle)에 대해 설명해주세요.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "02. iOS 앱의 생명주기(App Life Cycle)에 대해 설명해주세요.md"; sourceTree = "<group>"; };
 		492F2DA42D019176007DC150 /* 18. HTTP 상태 코드에 대해서 설명해주세요.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "18. HTTP 상태 코드에 대해서 설명해주세요.md"; sourceTree = "<group>"; };
 		493254DB2D795E1500959214 /* 32. 데이터베이스의 종류와 iOS에서 주로 사용되는 데이터베이스에 대해 설명해주세요..md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "32. 데이터베이스의 종류와 iOS에서 주로 사용되는 데이터베이스에 대해 설명해주세요..md"; sourceTree = "<group>"; };
 		494E98702D35274B008C61C0 /* 24. 자주 사용되는 정렬 알고리즘(예 퀵 정렬, 병합 정렬)의 동작 원리와 시간 복잡도를 설명해주세요.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "24. 자주 사용되는 정렬 알고리즘(예 퀵 정렬, 병합 정렬)의 동작 원리와 시간 복잡도를 설명해주세요.md"; sourceTree = "<group>"; };
@@ -138,7 +138,7 @@
 			isa = PBXGroup;
 			children = (
 				A7EED23C2D839FF0002B24D0 /* 01. Swift에서 옵셔널(Optional)이란 무엇이며, 언제 사용해야 하나요?.md */,
-				4922DE6B2D8BA32000F55900 /* 2. iOS 앱의 생명주기(App Life Cycle)에 대해 설명해주세요.md */,
+				4922DE6B2D8BA32000F55900 /* 02. iOS 앱의 생명주기(App Life Cycle)에 대해 설명해주세요.md */,
 			);
 			name = "레벨 1.";
 			path = "레벨 1.";
