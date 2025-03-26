@@ -36,6 +36,7 @@
 		49E2745D2CD9D7EF006EF826 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		49E524792D2BAFFC008D6E37 /* 22. iOS 디바이스의 메모리 제약과 앱 메모리 제한에 대해 설명해주세요.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "22. iOS 디바이스의 메모리 제약과 앱 메모리 제한에 대해 설명해주세요.md"; sourceTree = "<group>"; };
 		49F3734C2D310D8C00C111BB /* 23. 알고리즘의 시간 복잡도와 공간 복잡도의 개념, 그리고 빅오 표기법에 대해 설명해주세요.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "23. 알고리즘의 시간 복잡도와 공간 복잡도의 개념, 그리고 빅오 표기법에 대해 설명해주세요.md"; sourceTree = "<group>"; };
+		49F4E61D2D93E7EE001B215D /* 04. Swift에서 클로저(Closure)란 무엇이며, 어떻게 사용하나요?.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "04. Swift에서 클로저(Closure)란 무엇이며, 어떻게 사용하나요?.md"; sourceTree = "<group>"; };
 		A702BD9D2D8CDE4000134402 /* 03. Auto Layout을 사용하는 이유와 장점은 무엇인가요?.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "03. Auto Layout을 사용하는 이유와 장점은 무엇인가요?.md"; sourceTree = "<group>"; };
 		A702BD9E2D8CDEBE00134402 /* 04. -복습.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "04. -복습.md"; sourceTree = "<group>"; };
 		A7108FB12CFAF565007C5555 /* 13. HTTP 프로토콜의 특징과 HTTP1.1과 HTTP2의 차이점을 설명해주세요.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "13. HTTP 프로토콜의 특징과 HTTP1.1과 HTTP2의 차이점을 설명해주세요.md"; sourceTree = "<group>"; };
@@ -143,6 +144,7 @@
 				A7EED23C2D839FF0002B24D0 /* 01. Swift에서 옵셔널(Optional)이란 무엇이며, 언제 사용해야 하나요?.md */,
 				4922DE6B2D8BA32000F55900 /* 02. iOS 앱의 생명주기(App Life Cycle)에 대해 설명해주세요.md */,
 				A702BD9D2D8CDE4000134402 /* 03. Auto Layout을 사용하는 이유와 장점은 무엇인가요?.md */,
+				49F4E61D2D93E7EE001B215D /* 04. Swift에서 클로저(Closure)란 무엇이며, 어떻게 사용하나요?.md */,
 			);
 			name = "레벨 1.";
 			path = "레벨 1.";
