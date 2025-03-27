@@ -37,6 +37,7 @@
 		49E524792D2BAFFC008D6E37 /* 22. iOS 디바이스의 메모리 제약과 앱 메모리 제한에 대해 설명해주세요.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "22. iOS 디바이스의 메모리 제약과 앱 메모리 제한에 대해 설명해주세요.md"; sourceTree = "<group>"; };
 		49F3734C2D310D8C00C111BB /* 23. 알고리즘의 시간 복잡도와 공간 복잡도의 개념, 그리고 빅오 표기법에 대해 설명해주세요.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "23. 알고리즘의 시간 복잡도와 공간 복잡도의 개념, 그리고 빅오 표기법에 대해 설명해주세요.md"; sourceTree = "<group>"; };
 		49F4E61D2D93E7EE001B215D /* 04. Swift에서 클로저(Closure)란 무엇이며, 어떻게 사용하나요?.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "04. Swift에서 클로저(Closure)란 무엇이며, 어떻게 사용하나요?.md"; sourceTree = "<group>"; };
+		49F4E61E2D94E200001B215D /* 05. - 복습.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "05. - 복습.md"; sourceTree = "<group>"; };
 		A702BD9D2D8CDE4000134402 /* 03. Auto Layout을 사용하는 이유와 장점은 무엇인가요?.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "03. Auto Layout을 사용하는 이유와 장점은 무엇인가요?.md"; sourceTree = "<group>"; };
 		A702BD9E2D8CDEBE00134402 /* 04. -복습.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "04. -복습.md"; sourceTree = "<group>"; };
 		A7108FB12CFAF565007C5555 /* 13. HTTP 프로토콜의 특징과 HTTP1.1과 HTTP2의 차이점을 설명해주세요.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "13. HTTP 프로토콜의 특징과 HTTP1.1과 HTTP2의 차이점을 설명해주세요.md"; sourceTree = "<group>"; };
@@ -94,6 +95,7 @@
 				498CEB802CF95C6F008289DA /* 04. iOS 기기에서 사용되는 AP(Application Processor)의 특징과 역할에 대해 설명해주세요..md */,
 				A702BD9E2D8CDEBE00134402 /* 04. -복습.md */,
 				498CEB7D2CF95C6F008289DA /* 05. 운영체제의 역할과 iOS의 운영체제 구조에 대해 설명해주세요.md */,
+				49F4E61E2D94E200001B215D /* 05. - 복습.md */,
 				498CEB772CF95C6F008289DA /* 06. 프로세스와 스레드의 차이점, 그리고 iOS에서의 프로세스와 스레드 관리 방법에 대해 설명해주세요.md */,
 				498CEB7A2CF95C6F008289DA /* 07. 메모리 관리 기법 중 iOS에서 사용되는 방식과 그 특징에 대해 설명해주세요.md */,
 				498CEB792CF95C6F008289DA /* 08. iOS의 샌드박스(Sandbox) 개념과 역할, 그리고 앱 간 데이터 공유 방법에 대해 설명해주세요.md */,
