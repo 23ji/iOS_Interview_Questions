@@ -9,6 +9,7 @@
 /* Begin PBXFileReference section */
 		49190E8B2D7EA71E00C54411 /* 34. Swift에서 싱글톤 패턴을 구현할 때 멀티스레드에 대해서 어떻게 고려해야 하나요?.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "34. Swift에서 싱글톤 패턴을 구현할 때 멀티스레드에 대해서 어떻게 고려해야 하나요?.md"; sourceTree = "<group>"; };
 		491DECDD2DB1E63F00D77F9F /* 06. - 복습.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "06. - 복습.md"; sourceTree = "<group>"; };
+		491DECDE2DB1E6EC00D77F9F /* 05. iOS에서 Delegate 패턴은 무엇이며, 어떤 상황에서 사용되나요?.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "05. iOS에서 Delegate 패턴은 무엇이며, 어떤 상황에서 사용되나요?.md"; sourceTree = "<group>"; };
 		4922DE682D80306500F55900 /* 35. Array와 List의 차이점이 무엇인지 설명해주세요..md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "35. Array와 List의 차이점이 무엇인지 설명해주세요..md"; sourceTree = "<group>"; };
 		4922DE6A2D8A582100F55900 /* 03. - 복습.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "03. - 복습.md"; sourceTree = "<group>"; };
 		4922DE6B2D8BA32000F55900 /* 02. iOS 앱의 생명주기(App Life Cycle)에 대해 설명해주세요.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "02. iOS 앱의 생명주기(App Life Cycle)에 대해 설명해주세요.md"; sourceTree = "<group>"; };
@@ -149,6 +150,7 @@
 				4922DE6B2D8BA32000F55900 /* 02. iOS 앱의 생명주기(App Life Cycle)에 대해 설명해주세요.md */,
 				A702BD9D2D8CDE4000134402 /* 03. Auto Layout을 사용하는 이유와 장점은 무엇인가요?.md */,
 				49F4E61D2D93E7EE001B215D /* 04. Swift에서 클로저(Closure)란 무엇이며, 어떻게 사용하나요?.md */,
+				491DECDE2DB1E6EC00D77F9F /* 05. iOS에서 Delegate 패턴은 무엇이며, 어떤 상황에서 사용되나요?.md */,
 			);
 			name = "레벨 1.";
 			path = "레벨 1.";
