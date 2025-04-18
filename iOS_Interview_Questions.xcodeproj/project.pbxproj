@@ -8,6 +8,7 @@
 
 /* Begin PBXFileReference section */
 		49190E8B2D7EA71E00C54411 /* 34. Swift에서 싱글톤 패턴을 구현할 때 멀티스레드에 대해서 어떻게 고려해야 하나요?.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "34. Swift에서 싱글톤 패턴을 구현할 때 멀티스레드에 대해서 어떻게 고려해야 하나요?.md"; sourceTree = "<group>"; };
+		491DECDD2DB1E63F00D77F9F /* 06. - 복습.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "06. - 복습.md"; sourceTree = "<group>"; };
 		4922DE682D80306500F55900 /* 35. Array와 List의 차이점이 무엇인지 설명해주세요..md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "35. Array와 List의 차이점이 무엇인지 설명해주세요..md"; sourceTree = "<group>"; };
 		4922DE6A2D8A582100F55900 /* 03. - 복습.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "03. - 복습.md"; sourceTree = "<group>"; };
 		4922DE6B2D8BA32000F55900 /* 02. iOS 앱의 생명주기(App Life Cycle)에 대해 설명해주세요.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "02. iOS 앱의 생명주기(App Life Cycle)에 대해 설명해주세요.md"; sourceTree = "<group>"; };
@@ -97,6 +98,7 @@
 				498CEB7D2CF95C6F008289DA /* 05. 운영체제의 역할과 iOS의 운영체제 구조에 대해 설명해주세요.md */,
 				49F4E61E2D94E200001B215D /* 05. - 복습.md */,
 				498CEB772CF95C6F008289DA /* 06. 프로세스와 스레드의 차이점, 그리고 iOS에서의 프로세스와 스레드 관리 방법에 대해 설명해주세요.md */,
+				491DECDD2DB1E63F00D77F9F /* 06. - 복습.md */,
 				498CEB7A2CF95C6F008289DA /* 07. 메모리 관리 기법 중 iOS에서 사용되는 방식과 그 특징에 대해 설명해주세요.md */,
 				498CEB792CF95C6F008289DA /* 08. iOS의 샌드박스(Sandbox) 개념과 역할, 그리고 앱 간 데이터 공유 방법에 대해 설명해주세요.md */,
 				498CEB762CF95C6F008289DA /* 09. iOS에서의 메모리 구조와 관리 방식에 대해 자세히 설명해주세요.md */,
