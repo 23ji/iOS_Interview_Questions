@@ -36,6 +36,7 @@
 		498CEB7F2CF95C6F008289DA /* 03. CPU 아키텍처의 종류와 각 특징에 대해 설명해주세요.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "03. CPU 아키텍처의 종류와 각 특징에 대해 설명해주세요.md"; sourceTree = "<group>"; };
 		498CEB802CF95C6F008289DA /* 04. iOS 기기에서 사용되는 AP(Application Processor)의 특징과 역할에 대해 설명해주세요..md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "04. iOS 기기에서 사용되는 AP(Application Processor)의 특징과 역할에 대해 설명해주세요..md"; sourceTree = "<group>"; };
 		49C806CE2D266B1D002367C1 /* 21. iOS에서 메모리 사이즈와 관련된 개념과 고려 사항에 대해 설명해주세요.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "21. iOS에서 메모리 사이즈와 관련된 개념과 고려 사항에 대해 설명해주세요.md"; sourceTree = "<group>"; };
+		49D2F7052DC20FDA008106F9 /* 07. 메모리 관리 기법 중 iOS에서 사용되는 방식과 그 특징에 대해 설명해주세요.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "07. 메모리 관리 기법 중 iOS에서 사용되는 방식과 그 특징에 대해 설명해주세요.md"; sourceTree = "<group>"; };
 		49E2745C2CD9D73E006EF826 /* 2. 운영체제의 역할과 iOS에서의 운영체제 구조에 대해 설명해주세요..md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "2. 운영체제의 역할과 iOS에서의 운영체제 구조에 대해 설명해주세요..md"; sourceTree = "<group>"; };
 		49E2745D2CD9D7EF006EF826 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		49E524792D2BAFFC008D6E37 /* 22. iOS 디바이스의 메모리 제약과 앱 메모리 제한에 대해 설명해주세요.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "22. iOS 디바이스의 메모리 제약과 앱 메모리 제한에 대해 설명해주세요.md"; sourceTree = "<group>"; };
@@ -155,6 +156,7 @@
 				49F4E61D2D93E7EE001B215D /* 04. Swift에서 클로저(Closure)란 무엇이며, 어떻게 사용하나요?.md */,
 				491DECDE2DB1E6EC00D77F9F /* 05. iOS에서 Delegate 패턴은 무엇이며, 어떤 상황에서 사용되나요?.md */,
 				495A74572DC06DC6001A9478 /* 06. Swift의 기본 데이터 타입과 컬렉션(Collection) 타입에는 어떤 것들이 있나요?.md */,
+				49D2F7052DC20FDA008106F9 /* 07. 메모리 관리 기법 중 iOS에서 사용되는 방식과 그 특징에 대해 설명해주세요.md */,
 			);
 			name = "레벨 1.";
 			path = "레벨 1.";
