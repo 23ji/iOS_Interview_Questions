@@ -48,6 +48,7 @@
 		49FEFB962DE59C6400577EE7 /* 09. - 복습.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "09. - 복습.md"; sourceTree = "<group>"; };
 		A702BD9D2D8CDE4000134402 /* 03. Auto Layout을 사용하는 이유와 장점은 무엇인가요?.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "03. Auto Layout을 사용하는 이유와 장점은 무엇인가요?.md"; sourceTree = "<group>"; };
 		A702BD9E2D8CDEBE00134402 /* 04. -복습.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "04. -복습.md"; sourceTree = "<group>"; };
+		A70398712DEC35EB000A78EA /* 10. - 복습.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "10. - 복습.md"; sourceTree = "<group>"; };
 		A7108FB12CFAF565007C5555 /* 13. HTTP 프로토콜의 특징과 HTTP1.1과 HTTP2의 차이점을 설명해주세요.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "13. HTTP 프로토콜의 특징과 HTTP1.1과 HTTP2의 차이점을 설명해주세요.md"; sourceTree = "<group>"; };
 		A723EA1C2CF9F1CE00F71AB1 /* 12. 컴퓨터 네트워킹에서 OSI 7계층 모델에 대해 설명해주세요.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "12. 컴퓨터 네트워킹에서 OSI 7계층 모델에 대해 설명해주세요.md"; sourceTree = "<group>"; };
 		A73FA5692CFD28E500612548 /* 15. 소켓 통신에 대해 설명해주세요.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "15. 소켓 통신에 대해 설명해주세요.md"; sourceTree = "<group>"; };
@@ -139,6 +140,7 @@
 				A759EFAC2D7C46190049841F /* 33. 싱글톤 패턴(Singleton Pattern)이란 무엇이며, 어떤 경우에 사용하나요?.md */,
 				49190E8B2D7EA71E00C54411 /* 34. Swift에서 싱글톤 패턴을 구현할 때 멀티스레드에 대해서 어떻게 고려해야 하나요?.md */,
 				4922DE682D80306500F55900 /* 35. Array와 List의 차이점이 무엇인지 설명해주세요..md */,
+				A70398712DEC35EB000A78EA /* 10. - 복습.md */,
 			);
 			name = "레벨 0.";
 			path = "레벨 0.";
