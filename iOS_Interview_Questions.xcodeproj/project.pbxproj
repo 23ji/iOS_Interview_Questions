@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
+		49151C862E01628D003CEAAB /* 11. iOS 앱에서 네트워크 통신을 하는 방법에는 어떤 것들이 있나요?.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "11. iOS 앱에서 네트워크 통신을 하는 방법에는 어떤 것들이 있나요?.md"; sourceTree = "<group>"; };
 		49190E8B2D7EA71E00C54411 /* 34. Swift에서 싱글톤 패턴을 구현할 때 멀티스레드에 대해서 어떻게 고려해야 하나요?.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "34. Swift에서 싱글톤 패턴을 구현할 때 멀티스레드에 대해서 어떻게 고려해야 하나요?.md"; sourceTree = "<group>"; };
 		491DECDD2DB1E63F00D77F9F /* 06. - 복습.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "06. - 복습.md"; sourceTree = "<group>"; };
 		491DECDE2DB1E6EC00D77F9F /* 05. iOS에서 Delegate 패턴은 무엇이며, 어떤 상황에서 사용되나요?.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "05. iOS에서 Delegate 패턴은 무엇이며, 어떤 상황에서 사용되나요?.md"; sourceTree = "<group>"; };
@@ -171,6 +172,7 @@
 				495FEADD2DD2DDC6008AE12E /* 08. iOS 앱에서 데이터를 저장하는 방법에는 어떤 것들이 있나요?.md */,
 				A7F73E672DEB36230081B95B /* 09. Swift에서 프로토콜(Protocol)이란 무엇이며, 어떻게 활용하나요?.md */,
 				A7A3C12F2E004B220018D6B8 /* 10. Swift의 접근 제어자(Access Control Levels)에 대해 설명해주세요..md */,
+				49151C862E01628D003CEAAB /* 11. iOS 앱에서 네트워크 통신을 하는 방법에는 어떤 것들이 있나요?.md */,
 			);
 			name = "레벨 1.";
 			path = "레벨 1.";
