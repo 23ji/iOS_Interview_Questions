@@ -9,6 +9,7 @@
 /* Begin PBXFileReference section */
 		49031E002EA72163004F5857 /* 13. - 복습.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "13. - 복습.md"; sourceTree = "<group>"; };
 		49031E012EA72217004F5857 /* 13. Swift의 고차 함수(Higher-Order Functions)에 대해 설명해주세요.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "13. Swift의 고차 함수(Higher-Order Functions)에 대해 설명해주세요.md"; sourceTree = "<group>"; };
+		49031E022EA89522004F5857 /* 14. - 복습.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; name = "14. - 복습.md"; path = "이전 질문/14. - 복습.md"; sourceTree = "<group>"; };
 		49151C862E01628D003CEAAB /* 11. iOS 앱에서 네트워크 통신을 하는 방법에는 어떤 것들이 있나요?.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "11. iOS 앱에서 네트워크 통신을 하는 방법에는 어떤 것들이 있나요?.md"; sourceTree = "<group>"; };
 		49190E8B2D7EA71E00C54411 /* 34. Swift에서 싱글톤 패턴을 구현할 때 멀티스레드에 대해서 어떻게 고려해야 하나요?.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "34. Swift에서 싱글톤 패턴을 구현할 때 멀티스레드에 대해서 어떻게 고려해야 하나요?.md"; sourceTree = "<group>"; };
 		491DECDD2DB1E63F00D77F9F /* 06. - 복습.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "06. - 복습.md"; sourceTree = "<group>"; };
@@ -130,6 +131,7 @@
 				A7108FB12CFAF565007C5555 /* 13. HTTP 프로토콜의 특징과 HTTP1.1과 HTTP2의 차이점을 설명해주세요.md */,
 				49031E002EA72163004F5857 /* 13. - 복습.md */,
 				A742CFDF2CFC5593000912F9 /* 14. TCP와 UDP의 특징과 차이점에 대해 설명해주세요.md */,
+				49031E022EA89522004F5857 /* 14. - 복습.md */,
 				A73FA5692CFD28E500612548 /* 15. 소켓 통신에 대해 설명해주세요.md */,
 				A73FA56A2CFF266900612548 /* 16. REST API와 iOS에서의 네트워크 요청 및 응답 처리 방법에 대해 설명해주세요.md */,
 				A73FA56B2D00974200612548 /* 17. REST API에서 HTTP 메서드들의 차이점을 설명해주세요.md */,
