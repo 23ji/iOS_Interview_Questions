@@ -11,6 +11,7 @@
 		49031E012EA72217004F5857 /* 13. Swift의 고차 함수(Higher-Order Functions)에 대해 설명해주세요.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "13. Swift의 고차 함수(Higher-Order Functions)에 대해 설명해주세요.md"; sourceTree = "<group>"; };
 		49031E022EA89522004F5857 /* 14. - 복습.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; name = "14. - 복습.md"; path = "이전 질문/14. - 복습.md"; sourceTree = "<group>"; };
 		49031E032EA895E0004F5857 /* 14. Git에서 브랜치(Branch)를 사용하는 이유와 장점은 무엇인가요?.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "14. Git에서 브랜치(Branch)를 사용하는 이유와 장점은 무엇인가요?.md"; sourceTree = "<group>"; };
+		49031E192EB896CF004F5857 /* 15. Swift의 에러 처리 방법에 대해 설명해주세요.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "15. Swift의 에러 처리 방법에 대해 설명해주세요.md"; sourceTree = "<group>"; };
 		49151C862E01628D003CEAAB /* 11. iOS 앱에서 네트워크 통신을 하는 방법에는 어떤 것들이 있나요?.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "11. iOS 앱에서 네트워크 통신을 하는 방법에는 어떤 것들이 있나요?.md"; sourceTree = "<group>"; };
 		49190E8B2D7EA71E00C54411 /* 34. Swift에서 싱글톤 패턴을 구현할 때 멀티스레드에 대해서 어떻게 고려해야 하나요?.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "34. Swift에서 싱글톤 패턴을 구현할 때 멀티스레드에 대해서 어떻게 고려해야 하나요?.md"; sourceTree = "<group>"; };
 		491DECDD2DB1E63F00D77F9F /* 06. - 복습.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "06. - 복습.md"; sourceTree = "<group>"; };
@@ -185,6 +186,7 @@
 				49E6296C2E30790700751E26 /* 12. 의존성 관리 도구(CocoaPods, Carthage, Swift Package Manager)의 종류와 차이점은 무엇인가요?.md */,
 				49031E012EA72217004F5857 /* 13. Swift의 고차 함수(Higher-Order Functions)에 대해 설명해주세요.md */,
 				49031E032EA895E0004F5857 /* 14. Git에서 브랜치(Branch)를 사용하는 이유와 장점은 무엇인가요?.md */,
+				49031E192EB896CF004F5857 /* 15. Swift의 에러 처리 방법에 대해 설명해주세요.md */,
 			);
 			name = "레벨 1.";
 			path = "레벨 1.";
