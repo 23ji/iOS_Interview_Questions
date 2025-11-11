@@ -46,6 +46,7 @@
 		498CEB7F2CF95C6F008289DA /* 03. CPU 아키텍처의 종류와 각 특징에 대해 설명해주세요.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "03. CPU 아키텍처의 종류와 각 특징에 대해 설명해주세요.md"; sourceTree = "<group>"; };
 		498CEB802CF95C6F008289DA /* 04. iOS 기기에서 사용되는 AP(Application Processor)의 특징과 역할에 대해 설명해주세요..md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "04. iOS 기기에서 사용되는 AP(Application Processor)의 특징과 역할에 대해 설명해주세요..md"; sourceTree = "<group>"; };
 		49A9C7AD2EC17E2D00087894 /* 16. - 복습.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "16. - 복습.md"; sourceTree = "<group>"; };
+		49A9C7AE2EC2BC9300087894 /* 16. 메모리 관리에서 강한 참조(Strong Reference)와 약한 참조(Weak Reference)의 차이점은 무엇인가요?.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "16. 메모리 관리에서 강한 참조(Strong Reference)와 약한 참조(Weak Reference)의 차이점은 무엇인가요?.md"; sourceTree = "<group>"; };
 		49C806CE2D266B1D002367C1 /* 21. iOS에서 메모리 사이즈와 관련된 개념과 고려 사항에 대해 설명해주세요.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "21. iOS에서 메모리 사이즈와 관련된 개념과 고려 사항에 대해 설명해주세요.md"; sourceTree = "<group>"; };
 		49D2F7052DC20FDA008106F9 /* 07. 메모리 관리 기법 중 iOS에서 사용되는 방식과 그 특징에 대해 설명해주세요.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "07. 메모리 관리 기법 중 iOS에서 사용되는 방식과 그 특징에 대해 설명해주세요.md"; sourceTree = "<group>"; };
 		49E2745C2CD9D73E006EF826 /* 2. 운영체제의 역할과 iOS에서의 운영체제 구조에 대해 설명해주세요..md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "2. 운영체제의 역할과 iOS에서의 운영체제 구조에 대해 설명해주세요..md"; sourceTree = "<group>"; };
@@ -191,6 +192,7 @@
 				49031E012EA72217004F5857 /* 13. Swift의 고차 함수(Higher-Order Functions)에 대해 설명해주세요.md */,
 				49031E032EA895E0004F5857 /* 14. Git에서 브랜치(Branch)를 사용하는 이유와 장점은 무엇인가요?.md */,
 				49031E192EB896CF004F5857 /* 15. Swift의 에러 처리 방법에 대해 설명해주세요.md */,
+				49A9C7AE2EC2BC9300087894 /* 16. 메모리 관리에서 강한 참조(Strong Reference)와 약한 참조(Weak Reference)의 차이점은 무엇인가요?.md */,
 			);
 			name = "레벨 1.";
 			path = "레벨 1.";
