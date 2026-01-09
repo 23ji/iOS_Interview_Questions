@@ -57,6 +57,7 @@
 		49E524792D2BAFFC008D6E37 /* 22. iOS 디바이스의 메모리 제약과 앱 메모리 제한에 대해 설명해주세요.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "22. iOS 디바이스의 메모리 제약과 앱 메모리 제한에 대해 설명해주세요.md"; sourceTree = "<group>"; };
 		49E6296C2E30790700751E26 /* 12. 의존성 관리 도구(CocoaPods, Carthage, Swift Package Manager)의 종류와 차이점은 무엇인가요?.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "12. 의존성 관리 도구(CocoaPods, Carthage, Swift Package Manager)의 종류와 차이점은 무엇인가요?.md"; sourceTree = "<group>"; };
 		49F2A8362F0E1722005AA265 /* 19. ARC(Automatic Reference Counting)의 동작 원리는 무엇인가요?.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "19. ARC(Automatic Reference Counting)의 동작 원리는 무엇인가요?.md"; sourceTree = "<group>"; };
+		49F2A8372F109553005AA265 /* 20. - 복습.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "20. - 복습.md"; sourceTree = "<group>"; };
 		49F3734C2D310D8C00C111BB /* 23. 알고리즘의 시간 복잡도와 공간 복잡도의 개념, 그리고 빅오 표기법에 대해 설명해주세요.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "23. 알고리즘의 시간 복잡도와 공간 복잡도의 개념, 그리고 빅오 표기법에 대해 설명해주세요.md"; sourceTree = "<group>"; };
 		49F4E61D2D93E7EE001B215D /* 04. Swift에서 클로저(Closure)란 무엇이며, 어떻게 사용하나요?.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "04. Swift에서 클로저(Closure)란 무엇이며, 어떻게 사용하나요?.md"; sourceTree = "<group>"; };
 		49F4E61E2D94E200001B215D /* 05. - 복습.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "05. - 복습.md"; sourceTree = "<group>"; };
@@ -155,6 +156,7 @@
 				A73FA56C2D12E90100612548 /* 19. iOS에서 이미지 파일 포맷(PNG, JPEG 등)과 각 포맷의 특징에 대해 설명해주세요.md */,
 				9F7E10FE2F0BDC630032CBFF /* 19. - 복습.md */,
 				49648CCC2D22809400EDC9CC /* 20. PNG 파일이 어떻게 저장되고 구성되는지 설명해주세요..md */,
+				49F2A8372F109553005AA265 /* 20. - 복습.md */,
 				49C806CE2D266B1D002367C1 /* 21. iOS에서 메모리 사이즈와 관련된 개념과 고려 사항에 대해 설명해주세요.md */,
 				49E524792D2BAFFC008D6E37 /* 22. iOS 디바이스의 메모리 제약과 앱 메모리 제한에 대해 설명해주세요.md */,
 				49F3734C2D310D8C00C111BB /* 23. 알고리즘의 시간 복잡도와 공간 복잡도의 개념, 그리고 빅오 표기법에 대해 설명해주세요.md */,
