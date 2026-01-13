@@ -58,6 +58,7 @@
 		49E6296C2E30790700751E26 /* 12. 의존성 관리 도구(CocoaPods, Carthage, Swift Package Manager)의 종류와 차이점은 무엇인가요?.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "12. 의존성 관리 도구(CocoaPods, Carthage, Swift Package Manager)의 종류와 차이점은 무엇인가요?.md"; sourceTree = "<group>"; };
 		49F2A8362F0E1722005AA265 /* 19. ARC(Automatic Reference Counting)의 동작 원리는 무엇인가요?.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "19. ARC(Automatic Reference Counting)의 동작 원리는 무엇인가요?.md"; sourceTree = "<group>"; };
 		49F2A8372F109553005AA265 /* 20. - 복습.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "20. - 복습.md"; sourceTree = "<group>"; };
+		49F2A8592F15E149005AA265 /* 20. 상속(Inheritance)과 프로토콜(Protocol)의 차이점은 무엇인가요?.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "20. 상속(Inheritance)과 프로토콜(Protocol)의 차이점은 무엇인가요?.md"; sourceTree = "<group>"; };
 		49F3734C2D310D8C00C111BB /* 23. 알고리즘의 시간 복잡도와 공간 복잡도의 개념, 그리고 빅오 표기법에 대해 설명해주세요.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "23. 알고리즘의 시간 복잡도와 공간 복잡도의 개념, 그리고 빅오 표기법에 대해 설명해주세요.md"; sourceTree = "<group>"; };
 		49F4E61D2D93E7EE001B215D /* 04. Swift에서 클로저(Closure)란 무엇이며, 어떻게 사용하나요?.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "04. Swift에서 클로저(Closure)란 무엇이며, 어떻게 사용하나요?.md"; sourceTree = "<group>"; };
 		49F4E61E2D94E200001B215D /* 05. - 복습.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "05. - 복습.md"; sourceTree = "<group>"; };
@@ -207,6 +208,7 @@
 				49E0FF462ED53FAA00A0B97F /* 17. iOS 앱에서 Multi-threading을 구현하는 방법은 무엇인가요?.md */,
 				4909ED422EF2407500BFB67C /* 18. UIKit에서 TableView와 CollectionView의 차이점은 무엇인가요?.md */,
 				49F2A8362F0E1722005AA265 /* 19. ARC(Automatic Reference Counting)의 동작 원리는 무엇인가요?.md */,
+				49F2A8592F15E149005AA265 /* 20. 상속(Inheritance)과 프로토콜(Protocol)의 차이점은 무엇인가요?.md */,
 			);
 			name = "레벨 1.";
 			path = "레벨 1.";
