@@ -65,6 +65,7 @@
 		49F4E61D2D93E7EE001B215D /* 04. Swift에서 클로저(Closure)란 무엇이며, 어떻게 사용하나요?.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "04. Swift에서 클로저(Closure)란 무엇이며, 어떻게 사용하나요?.md"; sourceTree = "<group>"; };
 		49F4E61E2D94E200001B215D /* 05. - 복습.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "05. - 복습.md"; sourceTree = "<group>"; };
 		49FEFB962DE59C6400577EE7 /* 09. - 복습.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "09. - 복습.md"; sourceTree = "<group>"; };
+		9F04BFCA2F2F4B9A002B694E /* 22. - 복습.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "22. - 복습.md"; sourceTree = "<group>"; };
 		9F24B6092ECDB99600F8FAA8 /* 17. - 복습.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "17. - 복습.md"; sourceTree = "<group>"; };
 		9F7E10FE2F0BDC630032CBFF /* 19. - 복습.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "19. - 복습.md"; sourceTree = "<group>"; };
 		A702BD9D2D8CDE4000134402 /* 03. Auto Layout을 사용하는 이유와 장점은 무엇인가요?.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "03. Auto Layout을 사용하는 이유와 장점은 무엇인가요?.md"; sourceTree = "<group>"; };
@@ -163,6 +164,7 @@
 				49C806CE2D266B1D002367C1 /* 21. iOS에서 메모리 사이즈와 관련된 개념과 고려 사항에 대해 설명해주세요.md */,
 				49F2A87D2F1732AB005AA265 /* 21. - 복습.md */,
 				49E524792D2BAFFC008D6E37 /* 22. iOS 디바이스의 메모리 제약과 앱 메모리 제한에 대해 설명해주세요.md */,
+				9F04BFCA2F2F4B9A002B694E /* 22. - 복습.md */,
 				49F3734C2D310D8C00C111BB /* 23. 알고리즘의 시간 복잡도와 공간 복잡도의 개념, 그리고 빅오 표기법에 대해 설명해주세요.md */,
 				494E98702D35274B008C61C0 /* 24. 자주 사용되는 정렬 알고리즘(예 퀵 정렬, 병합 정렬)의 동작 원리와 시간 복잡도를 설명해주세요.md */,
 				4961B4602D3646BD00CCDD8C /* 25. 이진 탐색의 원리와 시간 복잡도에 대해 설명해주세요..md */,
